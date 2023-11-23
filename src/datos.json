@@ -1,0 +1,5 @@
+[
+    {"id": 1, "Longitud": 0.01, "latitud": 20.10, "detalle": "Emisferio Norte"},
+    {"id": 2, "Longitud": -0.01, "latitud": 100.10, "detalle": "Emisferio Sur"}
+
+]
